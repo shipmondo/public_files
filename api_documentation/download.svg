@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="876" height="1179"><defs/><g transform="translate(59.625,97.5) scale(3,3)"><path fill="none" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 77.16468253968256 44.5 L 174.02912291364953 125.32728137165459" stroke-opacity="1" stroke-linejoin="round" stroke-miterlimit="10"/><path fill="rgb(0,0,0)" stroke="none" paint-order="stroke fill markers" d=" M 165.36844261335239 123.76599448704796 L 174.83531746031744 126 L 170.94239696250003 117.08609681465671 L 171.49536862412182 123.21302282542617 Z" fill-opacity="1"/><path fill="none" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 82.125 164 L 168.825 164" stroke-opacity="1" stroke-linejoin="round" stroke-miterlimit="10"/><path fill="rgb(0,0,0)" stroke="none" paint-order="stroke fill markers" d=" M 161.175 168.35 L 169.875 164 L 161.175 159.65 L 165.525 164 Z" fill-opacity="1"/><path fill="none" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 77.16468253968256 283.5 L 174.02912291364953 202.67271862834542" stroke-opacity="1" stroke-linejoin="round" stroke-miterlimit="10"/><path fill="rgb(0,0,0)" stroke="none" paint-order="stroke fill markers" d=" M 170.94239696250003 210.9139031853433 L 174.83531746031744 202 L 165.36844261335239 204.23400551295202 L 171.49536862412182 204.78697717457382 Z" fill-opacity="1"/><path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M -18.374999999999986 -30.999999999999993 L -18.375 43.999999999999986 L 81.62499999999997 44 L 81.625 -30.999999999999986 Z" fill-opacity="1" stroke-opacity="1" stroke-miterlimit="10"/><text fill="rgb(0,0,0)" stroke="none" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="31.625" y="11.5" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Sender</text><path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M -18.374999999999986 126.5 L -18.375 201.5 L 81.62499999999997 201.5 L 81.625 126.50000000000001 Z" fill-opacity="1" stroke-opacity="1" stroke-miterlimit="10"/><text fill="rgb(0,0,0)" stroke="none" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="31.625" y="169" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Receiver</text><path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M -18.374999999999986 284 L -18.375 359 L 81.62499999999997 359 L 81.625 284 Z" fill-opacity="1" stroke-opacity="1" stroke-miterlimit="10"/><text fill="rgb(0,0,0)" stroke="none" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="31.625" y="320.25" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Shipping Product </text><text fill="rgb(0,0,0)" stroke="none" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="31.625" y="332.75" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">&amp; Services </text><path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" paint-order="fill stroke markers" d=" M 170.375 126.5 L 170.375 201.5 L 270.375 201.5 L 270.375 126.50000000000001 Z" fill-opacity="1" stroke-opacity="1" stroke-miterlimit="10"/><text fill="rgb(0,0,0)" stroke="none" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" font-size="10px" font-style="normal" font-weight="normal" text-decoration="normal" x="220.375" y="169" text-anchor="middle" dominant-baseline="text-after-edge" fill-opacity="1">Shipment</text><g transform="scale(0.3333333333333333,0.3333333333333333) translate(-59.625,-97.5)"/></g><!--Original Flowchart Text (flowchart.fun):
+
+Sender
+  Shipment
+Receiver
+  : (2)
+Shipping Product & Services
+  : (2)
+/*
+this app works by typing
+ new lines create new nodes
+  test
+  indentation creates child nodes 
+  and any text: before a colon+space creates a label
+ [linking] you can link to nodes using their ID in parentheses
+  like this: (1)
+  lines have a default ID of their line-number
+   but you can also supply a custom ID in brackets
+    like this: (linking) // use single line comments
+*/
+/*
+or 
+multiline 
+comments
+
+Have fun! 🎉
+*/
+
+--></svg>
