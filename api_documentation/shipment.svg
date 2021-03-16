@@ -9,17 +9,129 @@
       ><path d="M0 0 L2147483647 0 L2147483647 2147483647 L0 2147483647 L0 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath2"
+      ><path d="M0 0 L0 270 L460 270 L460 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath3"
       ><path d="M0 0 L0 480 L480 480 L480 0 Z"
       /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath4"
+      ><path d="M0 0 L0 70 L140 70 L140 0 Z"
+      /></clipPath
     ></defs
+    ><g fill="rgb(255,255,255)" fill-opacity="0" transform="translate(120,340)" stroke-opacity="0" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="458.5" height="268.5" y="0.5" clip-path="url(#clipPath2)" stroke="none"
+    /></g
+    ><g stroke-dasharray="8,5" stroke-miterlimit="5" transform="translate(120,340)" stroke-linecap="butt"
+    ><rect fill="none" x="0.5" width="458.5" height="268.5" y="0.5" clip-path="url(#clipPath2)"
+      /><text x="5" font-size="14px" y="17.8174" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" xml:space="preserve"
+      >Optional</text
+    ></g
     ><g fill="rgb(240,240,240)" fill-opacity="0.4902" transform="translate(110,150)" stroke-opacity="0.4902" stroke="rgb(240,240,240)"
-    ><path d="M0.5 0.5 L192.5 0.5 L192.5 21.3174 L479 21.3174 L479 479 L0.5 479 Z" stroke="none" clip-path="url(#clipPath2)"
+    ><path d="M0.5 0.5 L192.5 0.5 L192.5 21.3174 L479 21.3174 L479 479 L0.5 479 Z" stroke="none" clip-path="url(#clipPath3)"
     /></g
     ><g transform="translate(110,150)"
-    ><path fill="none" d="M0.5 0.5 L192.5 0.5 L192.5 21.3174 L479 21.3174 L479 479 L0.5 479 Z" clip-path="url(#clipPath2)"
-      /><path fill="none" d="M0.5 21.3174 L192.5 21.3174" clip-path="url(#clipPath2)"
-      /><text x="5" font-size="14px" y="15.8174" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" xml:space="preserve"
+    ><path fill="none" d="M0.5 0.5 L192.5 0.5 L192.5 21.3174 L479 21.3174 L479 479 L0.5 479 Z" clip-path="url(#clipPath3)"
+      /><path fill="none" d="M0.5 21.3174 L192.5 21.3174" clip-path="url(#clipPath3)"
+      /><text x="5" font-size="14px" y="15.8174" clip-path="url(#clipPath3)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >Shipment</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0.4902" transform="translate(120,260)" stroke-opacity="0.4902" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
+    /></g
+    ><g fill="rgb(91,48,245)" transform="translate(120,260)" stroke="rgb(91,48,245)"
+    ><rect fill="none" x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)"
+      /><text x="8" font-size="14px" y="32" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
+      >Shipping Product</text
+      ><text x="32" font-size="14px" y="47.8174" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
+      >&amp; Services</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0.4902" transform="translate(280,530)" stroke-opacity="0.4902" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
+    /></g
+    ><g fill="rgb(120,120,120)" stroke-miterlimit="5" stroke-dasharray="8,5" transform="translate(280,530)" stroke-linecap="butt" stroke="rgb(120,120,120)"
+    ><rect fill="none" x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)"
+      /><text x="50" font-size="14px" y="39.9087" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
+      >... etc.</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0.4902" transform="translate(130,530)" stroke-opacity="0.4902" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
+    /></g
+    ><g fill="rgb(120,120,120)" stroke-miterlimit="5" stroke-dasharray="8,5" transform="translate(130,530)" stroke-linecap="butt" stroke="rgb(120,120,120)"
+    ><rect fill="none" x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)"
+      /><text x="7" font-size="14px" y="39.9087" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
+      >Cash On Delivery</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0.4902" transform="translate(280,370)" stroke-opacity="0.4902" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
+    /></g
+    ><g fill="rgb(120,120,120)" stroke-miterlimit="5" stroke-dasharray="8,5" transform="translate(280,370)" stroke-linecap="butt" stroke="rgb(120,120,120)"
+    ><rect fill="none" x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)"
+      /><text x="38" font-size="14px" y="39.9087" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
+      >Customs</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0.4902" transform="translate(430,450)" stroke-opacity="0.4902" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
+    /></g
+    ><g fill="rgb(120,120,120)" stroke-miterlimit="5" stroke-dasharray="8,5" transform="translate(430,450)" stroke-linecap="butt" stroke="rgb(120,120,120)"
+    ><rect fill="none" x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)"
+      /><text x="13" font-size="14px" y="39.9087" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
+      >Pallet Exchange</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0.4902" transform="translate(280,450)" stroke-opacity="0.4902" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
+    /></g
+    ><g fill="rgb(120,120,120)" stroke-miterlimit="5" stroke-dasharray="8,5" transform="translate(280,450)" stroke-linecap="butt" stroke="rgb(120,120,120)"
+    ><rect fill="none" x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)"
+      /><text x="31" font-size="14px" y="39.9087" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
+      >Send Label</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0.4902" transform="translate(130,450)" stroke-opacity="0.4902" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
+    /></g
+    ><g fill="rgb(120,120,120)" stroke-miterlimit="5" stroke-dasharray="8,5" transform="translate(130,450)" stroke-linecap="butt" stroke="rgb(120,120,120)"
+    ><rect fill="none" x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)"
+      /><text x="42" font-size="14px" y="39.9087" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
+      >Print At</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0.4902" transform="translate(270,260)" stroke-opacity="0.4902" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
+    /></g
+    ><g fill="rgb(91,48,245)" transform="translate(270,260)" stroke="rgb(91,48,245)"
+    ><rect fill="none" x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)"
+      /><text x="44" font-size="14px" y="39.9087" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
+      >Parcels</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0.4902" transform="translate(430,370)" stroke-opacity="0.4902" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
+    /></g
+    ><g fill="rgb(120,120,120)" stroke-miterlimit="5" stroke-dasharray="8,5" transform="translate(430,370)" stroke-linecap="butt" stroke="rgb(120,120,120)"
+    ><rect fill="none" x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)"
+      /><text x="43" font-size="14px" y="39.9087" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
+      >Pick Up</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0.4902" transform="translate(130,370)" stroke-opacity="0.4902" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
+    /></g
+    ><g fill="rgb(120,120,120)" stroke-miterlimit="5" stroke-dasharray="8,5" transform="translate(130,370)" stroke-linecap="butt" stroke="rgb(120,120,120)"
+    ><rect fill="none" x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)"
+      /><text x="23" font-size="14px" y="39.9087" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
+      >Service Point</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0.4902" transform="translate(270,180)" stroke-opacity="0.4902" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
+    /></g
+    ><g fill="rgb(91,48,245)" transform="translate(270,180)" stroke="rgb(91,48,245)"
+    ><rect fill="none" x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)"
+      /><text x="39" font-size="14px" y="39.9087" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
+      >Receiver</text
+    ></g
+    ><g fill="rgb(255,255,255)" fill-opacity="0.4902" transform="translate(120,180)" stroke-opacity="0.4902" stroke="rgb(255,255,255)"
+    ><rect x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)" stroke="none"
+    /></g
+    ><g fill="rgb(91,48,245)" transform="translate(120,180)" stroke="rgb(91,48,245)"
+    ><rect fill="none" x="0.5" width="138.5" height="68.5" y="0.5" clip-path="url(#clipPath4)"
+      /><text x="45" font-size="14px" y="39.9087" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
+      >Sender</text
     ></g
   ></g
 ></svg
